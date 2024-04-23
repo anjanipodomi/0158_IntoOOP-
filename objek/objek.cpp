@@ -48,5 +48,5 @@ int main() {
 	mk.input();
 	mk.output();
 
-
+	return 0;
 }
